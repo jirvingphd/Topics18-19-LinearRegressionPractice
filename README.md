@@ -1,4 +1,4 @@
-# PT-092820 - Week 13 Linear Regression Practice
+# Topics 18&19 Linear Regression Practice
 
 Practicing linear regression... with fish!
 
